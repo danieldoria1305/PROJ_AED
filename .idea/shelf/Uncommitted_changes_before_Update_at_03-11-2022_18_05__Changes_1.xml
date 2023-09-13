@@ -1,0 +1,29 @@
+<changelist name="Uncommitted_changes_before_Update_at_03-11-2022_18_05_[Changes]1" date="1667498796165" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-11-2022_18_05_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 03-11-2022 18:05 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/TrabalhoAED.dir/Code/src/App.cpp.o" />
+    <option name="AFTER_PATH" value="cmake-build-debug/CMakeFiles/TrabalhoAED.dir/Code/src/App.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-11-2022_18_05_[Changes]1/App.cpp.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/TrabalhoAED.dir/Code/src/GestaoHorario.cpp.o" />
+    <option name="AFTER_PATH" value="cmake-build-debug/CMakeFiles/TrabalhoAED.dir/Code/src/GestaoHorario.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-11-2022_18_05_[Changes]1/GestaoHorario.cpp.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/TrabalhoAED.dir/Code/src/main.cpp.o" />
+    <option name="AFTER_PATH" value="cmake-build-debug/CMakeFiles/TrabalhoAED.dir/Code/src/main.cpp.o" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-11-2022_18_05_[Changes]1/main.cpp.o" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/TrabalhoAED" />
+    <option name="AFTER_PATH" value="cmake-build-debug/TrabalhoAED" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-11-2022_18_05_[Changes]1/TrabalhoAED" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/Testing/Temporary/LastTest.log" />
+    <option name="AFTER_PATH" value="cmake-build-debug/Testing/Temporary/LastTest.log" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-11-2022_18_05_[Changes]1/LastTest.log" />
+  </binary>
+</changelist>
